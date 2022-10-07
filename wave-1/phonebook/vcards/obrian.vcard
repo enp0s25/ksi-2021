@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:O'Brian
+FN:O'Brian
+BDAY:1984-11-19
+EMAIL:obrian@theparty.com
+TEL:+421 123 456 789
+NOTE:sus
+END:VCARD

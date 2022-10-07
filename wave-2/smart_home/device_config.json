@@ -1,0 +1,314 @@
+{
+    "devices": {
+        "a0c4e989-c445-41aa-9ec3-f52dae356c91": {
+            "id": "a0c4e989-c445-41aa-9ec3-f52dae356c91",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/a0c4e989-c445-41aa-9ec3-f52dae356c91/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2F5e296945-8741-4615-af1d-a5f7cf3e19b6%2Fstate%2Fon",
+                "device_info": "http://home_automation.iamroot.eu/device/a0c4e989-c445-41aa-9ec3-f52dae356c91",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/a0c4e989-c445-41aa-9ec3-f52dae356c91/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/a0c4e989-c445-41aa-9ec3-f52dae356c91/trigger"
+            },
+            "collector_url": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/state/on",
+            "last_triggered_timestamp": 0,
+            "type": "MotionSensor"
+        },
+        "5e296945-8741-4615-af1d-a5f7cf3e19b6": {
+            "id": "5e296945-8741-4615-af1d-a5f7cf3e19b6",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868093,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "fb1ebd96-1ed7-499c-b850-959e6f510590": {
+            "id": "fb1ebd96-1ed7-499c-b850-959e6f510590",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/fb1ebd96-1ed7-499c-b850-959e6f510590/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2F5e296945-8741-4615-af1d-a5f7cf3e19b6%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/fb1ebd96-1ed7-499c-b850-959e6f510590",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/fb1ebd96-1ed7-499c-b850-959e6f510590/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/fb1ebd96-1ed7-499c-b850-959e6f510590/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868094,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/5e296945-8741-4615-af1d-a5f7cf3e19b6/toggle",
+            "type": "SwitchSensor"
+        },
+        "2cad53f1-19c9-40f9-b66b-2b0e6675a2be": {
+            "id": "2cad53f1-19c9-40f9-b66b-2b0e6675a2be",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/2cad53f1-19c9-40f9-b66b-2b0e6675a2be/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2F03c3a875-182a-4d4e-aad8-365acc458867%2Fstate%2Fon",
+                "device_info": "http://home_automation.iamroot.eu/device/2cad53f1-19c9-40f9-b66b-2b0e6675a2be",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/2cad53f1-19c9-40f9-b66b-2b0e6675a2be/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/2cad53f1-19c9-40f9-b66b-2b0e6675a2be/trigger"
+            },
+            "collector_url": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/state/on",
+            "last_triggered_timestamp": 0,
+            "type": "MotionSensor"
+        },
+        "03c3a875-182a-4d4e-aad8-365acc458867": {
+            "id": "03c3a875-182a-4d4e-aad8-365acc458867",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868095,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f": {
+            "id": "bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2F03c3a875-182a-4d4e-aad8-365acc458867%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868096,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/03c3a875-182a-4d4e-aad8-365acc458867/toggle",
+            "type": "SwitchSensor"
+        },
+        "d68e4b5a-6e8b-4a24-8ddc-f36a3752f406": {
+            "id": "d68e4b5a-6e8b-4a24-8ddc-f36a3752f406",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868097,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "3cc6c36e-0298-44af-91c1-3cc09de861b0": {
+            "id": "3cc6c36e-0298-44af-91c1-3cc09de861b0",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/3cc6c36e-0298-44af-91c1-3cc09de861b0/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2Fd68e4b5a-6e8b-4a24-8ddc-f36a3752f406%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/3cc6c36e-0298-44af-91c1-3cc09de861b0",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/3cc6c36e-0298-44af-91c1-3cc09de861b0/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/3cc6c36e-0298-44af-91c1-3cc09de861b0/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868097,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/d68e4b5a-6e8b-4a24-8ddc-f36a3752f406/toggle",
+            "type": "SwitchSensor"
+        },
+        "04147ab6-780d-4f07-b928-186203d016ab": {
+            "id": "04147ab6-780d-4f07-b928-186203d016ab",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868098,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "668a48f9-91a8-4c80-a393-265be0255536": {
+            "id": "668a48f9-91a8-4c80-a393-265be0255536",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/668a48f9-91a8-4c80-a393-265be0255536/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2F04147ab6-780d-4f07-b928-186203d016ab%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/668a48f9-91a8-4c80-a393-265be0255536",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/668a48f9-91a8-4c80-a393-265be0255536/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/668a48f9-91a8-4c80-a393-265be0255536/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868098,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/04147ab6-780d-4f07-b928-186203d016ab/toggle",
+            "type": "SwitchSensor"
+        },
+        "bd847af9-81fa-4d87-abf7-5f6db68db580": {
+            "id": "bd847af9-81fa-4d87-abf7-5f6db68db580",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868099,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b": {
+            "id": "3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2Fbd847af9-81fa-4d87-abf7-5f6db68db580%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868100,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/bd847af9-81fa-4d87-abf7-5f6db68db580/toggle",
+            "type": "SwitchSensor"
+        },
+        "ac287f9e-36a5-4ffd-8770-43cf346b78ed": {
+            "id": "ac287f9e-36a5-4ffd-8770-43cf346b78ed",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868100,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "d41d7343-a836-4706-89f9-9fc00aa90eca": {
+            "id": "d41d7343-a836-4706-89f9-9fc00aa90eca",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/d41d7343-a836-4706-89f9-9fc00aa90eca/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2Fac287f9e-36a5-4ffd-8770-43cf346b78ed%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/d41d7343-a836-4706-89f9-9fc00aa90eca",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/d41d7343-a836-4706-89f9-9fc00aa90eca/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/d41d7343-a836-4706-89f9-9fc00aa90eca/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868101,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/ac287f9e-36a5-4ffd-8770-43cf346b78ed/toggle",
+            "type": "SwitchSensor"
+        },
+        "d2a54e02-7754-4f94-b535-8e00645853ef": {
+            "id": "d2a54e02-7754-4f94-b535-8e00645853ef",
+            "notes": "",
+            "actions": {
+                "change_color_blue_sky": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/color_temperature/10000",
+                "change_color_high_noon": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/color_temperature/5000",
+                "change_color_sunset": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/color_temperature/3500",
+                "device_info": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/notes",
+                "toggle_state": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/toggle",
+                "turn_off": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/state/off",
+                "turn_on": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/state/on"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868102,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "color_temperature": 5000,
+            "type": "SmartLight"
+        },
+        "b4e2a905-6740-470a-be7d-ae57e44d1765": {
+            "id": "b4e2a905-6740-470a-be7d-ae57e44d1765",
+            "notes": "",
+            "actions": {
+                "change_report_url": "https://home_automation.iamroot.eu//device/b4e2a905-6740-470a-be7d-ae57e44d1765/report_url?url=http%3A%2F%2Fhome_automation.iamroot.eu%2Fdevice%2Fd2a54e02-7754-4f94-b535-8e00645853ef%2Ftoggle",
+                "device_info": "http://home_automation.iamroot.eu/device/b4e2a905-6740-470a-be7d-ae57e44d1765",
+                "set_notes_POST": "http://home_automation.iamroot.eu/device/b4e2a905-6740-470a-be7d-ae57e44d1765/notes",
+                "trigger_report": "http://home_automation.iamroot.eu/device/b4e2a905-6740-470a-be7d-ae57e44d1765/trigger"
+            },
+            "current_state": false,
+            "power_usage_last_recalculated": 1639868102,
+            "power_usage": 0,
+            "power_usage_coefficient": 100,
+            "collector_url": "http://home_automation.iamroot.eu/device/d2a54e02-7754-4f94-b535-8e00645853ef/toggle",
+            "type": "SwitchSensor"
+        }
+    },
+    "rooms": {
+        "kuchyna": {
+            "MotionSensor": "a0c4e989-c445-41aa-9ec3-f52dae356c91",
+            "SmartLight": "5e296945-8741-4615-af1d-a5f7cf3e19b6",
+            "SwitchSensor": "fb1ebd96-1ed7-499c-b850-959e6f510590"
+        },
+        "obyvak": {
+            "MotionSensor": "2cad53f1-19c9-40f9-b66b-2b0e6675a2be",
+            "SmartLight": "03c3a875-182a-4d4e-aad8-365acc458867",
+            "SwitchSensor": "bb38c8d5-c5b4-4e1e-9a90-d2580b718e0f"
+        },
+        "koupelna": {
+            "SmartLight": "d68e4b5a-6e8b-4a24-8ddc-f36a3752f406",
+            "SwitchSensor": "3cc6c36e-0298-44af-91c1-3cc09de861b0"
+        },
+        "karlik": {
+            "SmartLight": "04147ab6-780d-4f07-b928-186203d016ab",
+            "SwitchSensor": "668a48f9-91a8-4c80-a393-265be0255536"
+        },
+        "sob_karsob": {
+            "SmartLight": "bd847af9-81fa-4d87-abf7-5f6db68db580",
+            "SwitchSensor": "3a810a88-c4c2-40e4-a5a9-c5cd261b4e0b"
+        },
+        "los_karlos": {
+            "SmartLight": "ac287f9e-36a5-4ffd-8770-43cf346b78ed",
+            "SwitchSensor": "d41d7343-a836-4706-89f9-9fc00aa90eca"
+        },
+        "zelvicka_julie": {
+            "SmartLight": "d2a54e02-7754-4f94-b535-8e00645853ef",
+            "SwitchSensor": "b4e2a905-6740-470a-be7d-ae57e44d1765"
+        }
+    }
+}

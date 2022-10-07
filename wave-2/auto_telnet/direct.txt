@@ -1,0 +1,7 @@
+Trying 75.119.139.35...
+Connected to telnet.iamroot.eu.
+Escape character is '^]'.
+[31mCervena[0m, [34mmodra
+[0mpro 7blazna dobra!8 soba [B
+
+KSI{**************************************[24D_[1D*[8Dy[1D*[16Cr[1D*[11Cy[1D*[32Do[1D*[7Ct[1D*[4D_[1D*[2Du[1D*[17Cw[1D*[6Cl[1D*[12De[1D*[7Ce[1D*[10Dh[1D*[8Dm[1D*[14Ct[1D*[20Dl[1D*[21Cu[1D*[16Dl[1D*[11Do[1D*[16Ce[1D*[9D_[1D*[3C_[1D*[3Di[1D*[6C_[1D*[25Dy[1D*[3DW[1D*h[1D*[4C_[1D*[21Ca[1D*[26D_[1D*[16Ce[1D*[11Cf[1D*[2Cl[1D*[1C?[1D*[22De[1D*[5De[1D*[9Dd[1D*[24Cs[1D*[8C}

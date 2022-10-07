@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Connor",
+        "birthday": "2021-11-01",
+        "email": "connor@cyberlife.com",
+        "phone": "+421 999 123 456",
+        "note": "the android sent by ceberlife"
+    },
+    {
+        "name": "Jason",
+        "birthday": "2000-11-02",
+        "email": "jason@brody.com",
+        "phone": "+421 900 123 456",
+        "note": "nice guy"
+    },
+    {
+        "name": "Name Surname",
+        "birthday": "1970-1-1",
+        "email": "just@a.name",
+        "phone": "+421 000 000 000",
+        "note": "just a name"
+    },
+    {
+        "name": "O'Brian",
+        "birthday": "1984-11-03",
+        "email": "obrian@theparty.com",
+        "phone": "+421 123 456 789",
+        "note": "sus"
+    },
+    {
+        "name": "Some person",
+        "birthday": "11-04",
+        "email": "some@email.com",
+        "phone": "+421 123 456 789",
+        "note": "I don't know birthday year"
+    }
+]
